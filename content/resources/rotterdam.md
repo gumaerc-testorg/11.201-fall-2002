@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ROTTERDAM PROJECT CITY
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-201-gateway-planning-action-fall-2002/9fd8233048215ab394c2b07bde05b436_Rotterdam.pdf
+file: /media/courses/11-201-gateway-planning-action-fall-2002/9fd8233048215ab394c2b07bde05b436_Rotterdam.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Rotterdam.pdf
 uid: 9fd82330-4821-5ab3-94c2-b07bde05b436
