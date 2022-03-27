@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 141e7b13-45b1-0456-3416-4c467c48896b
 resourcetype: Document
 title: ClassDiscussion2Unit4.pdf
 uid: f3923537-02b6-4554-2607-f03fc5efef8c

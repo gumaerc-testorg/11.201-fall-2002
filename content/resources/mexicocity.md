@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e130e516-bd64-bf9f-6e82-c8cf300b6800
 resourcetype: Document
 title: MexicoCity.pdf
 uid: 7653f40d-2cd3-9c1b-f6fd-dc4e325034c5

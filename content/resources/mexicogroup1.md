@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: dd48d6de-c5a9-528a-90e5-514194ca72ee
 resourcetype: Document
 title: mexicogroup1.pdf
 uid: f1908fe2-7b7e-0dd4-14f3-382035163b7f

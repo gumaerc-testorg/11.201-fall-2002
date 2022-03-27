@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e130e516-bd64-bf9f-6e82-c8cf300b6800
 resourcetype: Document
 title: Boston.pdf
 uid: 53841da4-9572-770d-0682-dfe2f2f64418

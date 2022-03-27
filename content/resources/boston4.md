@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: dd48d6de-c5a9-528a-90e5-514194ca72ee
 resourcetype: Document
 title: boston4.pdf
 uid: 6607dd09-b86e-a666-9218-ee2dd3623edf

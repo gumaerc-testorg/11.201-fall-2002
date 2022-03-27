@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 141e7b13-45b1-0456-3416-4c467c48896b
 resourcetype: Document
 title: Davidoff.pdf
 uid: 05167ee1-b33f-67d9-1952-4fbfb746cfd4

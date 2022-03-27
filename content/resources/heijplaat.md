@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e130e516-bd64-bf9f-6e82-c8cf300b6800
 resourcetype: Document
 title: Heijplaat.pdf
 uid: fe58ea16-bf69-03d0-4924-eff78d362de7

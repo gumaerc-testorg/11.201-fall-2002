@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 141e7b13-45b1-0456-3416-4c467c48896b
 resourcetype: Document
 title: GroupProjectPresentationUnit3.pdf
 uid: 4c856b37-e30e-aa87-7aeb-bdd38b9307d4

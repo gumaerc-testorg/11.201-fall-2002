@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e130e516-bd64-bf9f-6e82-c8cf300b6800
 resourcetype: Document
 title: Dilemmas.pdf
 uid: 494de851-d533-5a05-9f0d-669cebdafbea
