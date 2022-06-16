@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ Topics
 1
 {{< tdclose >}}
 {{< tdopen >}}
-A seven-step model of planning practice ([PDF]({{< baseurl >}}/resources/sevenstep))
+A seven-step model of planning practice ({{% resource_link 095548a9-8c22-1996-15a4-ec26b369d4b1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ A seven-step model of planning practice ([PDF]({{< baseurl >}}/resources/sevenst
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Key dilemmas in thinking about planning practice ([PDF]({{< baseurl >}}/resources/dilemmas))
+Key dilemmas in thinking about planning practice ({{% resource_link 494de851-d533-5a05-9f0d-669cebdafbea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ Key dilemmas in thinking about planning practice ([PDF]({{< baseurl >}}/resource
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Boston (South End) Lecture ([PDF]({{< baseurl >}}/resources/boston))
+Boston (South End) Lecture ({{% resource_link 53841da4-9572-770d-0682-dfe2f2f64418 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +55,7 @@ Boston (South End) Lecture ([PDF]({{< baseurl >}}/resources/boston))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Mexico City Lecture ([PDF]({{< baseurl >}}/resources/mexicocity))
+Mexico City Lecture ({{% resource_link 7653f40d-2cd3-9c1b-f6fd-dc4e325034c5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +91,7 @@ Netherlands Lecture - Part 3
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Thinking About Planning Education ([PDF]({{< baseurl >}}/resources/education))
+Thinking About Planning Education ({{% resource_link 73e9ca1d-3d72-e48f-d2c3-b8df8832e28c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
