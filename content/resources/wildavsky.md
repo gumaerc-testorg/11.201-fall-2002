@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-planning-action-fall-2002/44c556104435a1256b14fd36
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Wildavsky.pdf
 uid: 44c55610-4435-a125-6b14-fd366a8155fb
 ---
 Discussion questions on Wildavsky
-

@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-planning-action-fall-2002/d71dd140851610473db7b723
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ClassDiscussion2Unit2.pdf
 uid: d71dd140-8516-1047-3db7-b72310e8a5d5
 ---
 Questions for discussion on Group Projects ?for lecture #8.
-

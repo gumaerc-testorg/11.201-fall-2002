@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-planning-action-fall-2002/2a5ae2848f487422046d17f6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ClassDiscussionUnit4.pdf
 uid: 2a5ae284-8f48-7422-046d-17f61bb68f7e
 ---
 Prepare these questions for discussion in class for lecture #16
-

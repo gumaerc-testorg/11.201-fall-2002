@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-planning-action-fall-2002/7f56980f70557076be114eef
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: GroupProjectPresentationsUnit2.pdf
 uid: 7f56980f-7055-7076-be11-4eef5054f030
 ---
 Guideline for group projects to be presented in class for lecture #6
-

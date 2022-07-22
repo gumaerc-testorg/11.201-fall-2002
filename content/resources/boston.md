@@ -6,6 +6,7 @@ file: /courses/11-201-gateway-planning-action-fall-2002/53841da49572770d0682dfe2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Boston.pdf
 uid: 53841da4-9572-770d-0682-dfe2f2f64418
 ---
 COMPREHENSIVE NEIGHBORHOOD PLANNING: TAKING ACTION IN BOSTON'S SOUTH END
-

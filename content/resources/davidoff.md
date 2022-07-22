@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-planning-action-fall-2002/05167ee1b33f67d919524fbf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Davidoff.pdf
 uid: 05167ee1-b33f-67d9-1952-4fbfb746cfd4
 ---
 Discussion questions on Davidoff
-

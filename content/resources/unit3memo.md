@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-planning-action-fall-2002/ce93fe6c18f3c530ea81b64c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Unit3Memo.pdf
 uid: ce93fe6c-18f3-c530-ea81-b64ce0baa80a
 ---
 Assignment guidelines for the individual memos on Unit III will are below
-
