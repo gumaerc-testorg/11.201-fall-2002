@@ -2,6 +2,7 @@
 content_type: resource
 description: ROTTERDAM PROJECT CITY
 file: /courses/11-201-gateway-planning-action-fall-2002/9fd8233048215ab394c2b07bde05b436_Rotterdam.pdf
+file_size: 620544
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

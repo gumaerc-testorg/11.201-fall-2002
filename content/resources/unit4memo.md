@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Individual memos on Unit IV will be due by lecture #19'
 file: /courses/11-201-gateway-planning-action-fall-2002/083c99e397fec056a1adb7622f266a9d_Unit4Memo.pdf
+file_size: 38403
 file_type: application/pdf
 learning_resource_types:
 - Assignments
