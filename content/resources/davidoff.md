@@ -2,6 +2,7 @@
 content_type: resource
 description: Discussion questions on Davidoff
 file: /courses/11-201-gateway-planning-action-fall-2002/05167ee1b33f67d919524fbfb746cfd4_Davidoff.pdf
+file_size: 42958
 file_type: application/pdf
 learning_resource_types:
 - Assignments

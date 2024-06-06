@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment guidelines for the individual memos on Unit III will are below
 file: /courses/11-201-gateway-planning-action-fall-2002/ce93fe6c18f3c530ea81b64ce0baa80a_Unit3Memo.pdf
+file_size: 43044
 file_type: application/pdf
 learning_resource_types:
 - Assignments
