@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Discussion questions on Webber & Rittel (Wicked Problems)
-file: /courses/11-201-gateway-planning-action-fall-2002/520bd50f7ccfa302673933b2ba88787f_WebberRittel.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2002/520bd50f7ccfa302673933b2ba88787f_WebberRittel.pdf
 file_size: 42448
 file_type: application/pdf
 learning_resource_types:
