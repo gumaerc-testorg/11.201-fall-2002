@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Hiejplaat: Transition to a New Planning Game'
-file: /courses/11-201-gateway-planning-action-fall-2002/45eeda43dcd29daa51776cb48144fd49_rotterdam2.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2002/45eeda43dcd29daa51776cb48144fd49_rotterdam2.pdf
 file_size: 1001114
 file_type: application/pdf
 learning_resource_types:

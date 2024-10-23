@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Write a memo addressing the questions below, to be submitted at the
   beginning of class for lecture #9.'
-file: /courses/11-201-gateway-planning-action-fall-2002/d1e222439227c1a7c811211bf9426845_UnitIIMemo.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2002/d1e222439227c1a7c811211bf9426845_UnitIIMemo.pdf
 file_size: 38766
 file_type: application/pdf
 learning_resource_types:
