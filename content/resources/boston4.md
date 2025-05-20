@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'South End: A New Strategy'
-file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2002/6607dd09b86ea6669218ee2dd3623edf_boston4.pdf
+file: /courses/11-201-gateway-planning-action-fall-2002/6607dd09b86ea6669218ee2dd3623edf_boston4.pdf
 file_size: 202506
 file_type: application/pdf
 learning_resource_types:
