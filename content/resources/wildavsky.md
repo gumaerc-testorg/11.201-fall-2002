@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Discussion questions on Wildavsky
-file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2002/44c556104435a1256b14fd366a8155fb_Wildavsky.pdf
+file: /courses/11-201-gateway-planning-action-fall-2002/44c556104435a1256b14fd366a8155fb_Wildavsky.pdf
 file_size: 46080
 file_type: application/pdf
 learning_resource_types:

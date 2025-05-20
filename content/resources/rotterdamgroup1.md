@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Building a post-polder planning process: planning in a changing environment'
-file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2002/28a9e87e3ebcf8d86abe3e068029f816_rotterdamgroup1.pdf
+file: /courses/11-201-gateway-planning-action-fall-2002/28a9e87e3ebcf8d86abe3e068029f816_rotterdamgroup1.pdf
 file_size: 673342
 file_type: application/pdf
 learning_resource_types:
