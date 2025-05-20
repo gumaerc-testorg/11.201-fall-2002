@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Planning Practice: An Overview [A seven-step model of planning practice]'
-file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2002/095548a98c22199615a4ec26b369d4b1_SevenStep.pdf
+file: /courses/11-201-gateway-planning-action-fall-2002/095548a98c22199615a4ec26b369d4b1_SevenStep.pdf
 file_size: 288200
 file_type: application/pdf
 learning_resource_types:

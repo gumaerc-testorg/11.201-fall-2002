@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Prepare these questions for discussion in class for lecture #16'
-file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2002/2a5ae2848f487422046d17f61bb68f7e_ClassDiscussionUnit4.pdf
+file: /courses/11-201-gateway-planning-action-fall-2002/2a5ae2848f487422046d17f61bb68f7e_ClassDiscussionUnit4.pdf
 file_size: 39831
 file_type: application/pdf
 learning_resource_types:
