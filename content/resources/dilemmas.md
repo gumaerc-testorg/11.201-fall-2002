@@ -2,7 +2,7 @@
 content_type: resource
 description: Key Dilemmas in Planning Practice [Key dilemmas in thinking about planning
   practice]
-file: /courses/11-201-gateway-planning-action-fall-2002/494de851d5335a059f0d669cebdafbea_Dilemmas.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2002/494de851d5335a059f0d669cebdafbea_Dilemmas.pdf
 file_size: 37196
 file_type: application/pdf
 learning_resource_types:

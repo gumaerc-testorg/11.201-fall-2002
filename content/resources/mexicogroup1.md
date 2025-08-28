@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mexico City Airport Planning
-file: /courses/11-201-gateway-planning-action-fall-2002/f1908fe27b7e0dd414f3382035163b7f_mexicogroup1.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2002/f1908fe27b7e0dd414f3382035163b7f_mexicogroup1.pdf
 file_size: 162814
 file_type: application/pdf
 learning_resource_types:

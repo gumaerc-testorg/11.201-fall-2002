@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Planning Your Planning Education [Thinking About Planning Education]
-file: /courses/11-201-gateway-planning-action-fall-2002/73e9ca1d3d72e48fd2c3b8df8832e28c_Education.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2002/73e9ca1d3d72e48fd2c3b8df8832e28c_Education.pdf
 file_size: 186520
 file_type: application/pdf
 learning_resource_types:
