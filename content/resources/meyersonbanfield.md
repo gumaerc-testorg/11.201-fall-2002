@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Discussion questions on Meyerson and Banfield
-file: /courses/11-201-gateway-planning-action-fall-2002/38761b34ec0e93c0c044baf3bf73b046_MeyersonBanfield.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2002/38761b34ec0e93c0c044baf3bf73b046_MeyersonBanfield.pdf
 file_size: 45686
 file_type: application/pdf
 learning_resource_types:
